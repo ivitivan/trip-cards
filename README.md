@@ -4,7 +4,7 @@
 
 Устанавливаем и компилируем:
 ```bash
-git clone 
+git clone https://github.com/ivitivan/trip-cards
 cd trip-cards
 npm install
 npm run build
